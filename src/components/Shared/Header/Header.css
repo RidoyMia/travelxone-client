@@ -1,0 +1,20 @@
+.toggler-btn{
+    background-color: rgb(70, 70, 249);
+    border-radius: 50%;
+    padding: 3px;
+    max-width: 30px;
+}
+.link{
+    text-decoration: none;
+    list-style: none;
+    margin: 0px 5px;
+    font-size: 18px;
+    padding: 6px 12px;
+    font-weight: 400;
+
+}
+.link:hover{
+    background-color:rgb(70, 70, 249) ;
+    color: white;
+    border-radius: 3px;
+}

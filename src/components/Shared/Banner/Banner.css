@@ -1,0 +1,28 @@
+.Banner-container{
+    background-image: url("../../../images/Banner.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+.Travel-btn{
+    padding: 8px 45px;
+    background-color: rgb(48, 48, 250);
+    color: white;
+    font-size: medium;
+}
+/* .relative-container{
+    position: relative;
+}
+.relative-container{
+    position: relative;
+}
+.absolute-container img{
+    height: 40%;
+    width: 40%;
+}
+.absolute-container{
+    position: absolute;
+    bottom: -10%;
+    right: -80%; 
+} */

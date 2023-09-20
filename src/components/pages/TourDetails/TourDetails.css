@@ -1,0 +1,6 @@
+.small-banner{
+    background-image: url("../../../images/detailsBanner.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

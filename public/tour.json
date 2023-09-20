@@ -1,0 +1,432 @@
+
+
+[
+
+    {   "Country" : "Bangladesh",
+        "DivissionId" : "Sylhet",
+        
+        "Spots" : ["Sreemangal","Jaflong","Lalakhal","Sadapathor","Bichanakandi","Shatchori","TangourHaour"],
+        "Duration" : "6 days",
+        "TourType" : "Group",
+        "Price" : 700,
+        "About" : "Sreemangal, known as the Tea Capital of Bangladesh, is a lush, picturesque region nestled in the northeastern part of the country. It's renowned for its sprawling tea gardens, where emerald-green tea leaves stretch as far as the eye can see, creating a serene and tranquil landscape. Moving further north, you'll encounter Jaflong, a place of incredible natural beauty where the Khasi hills meet the plains, and the sparkling waters of the Dawki River beckon visitors to its crystal-clear depths. Lalakhal, on the other hand, enchants travelers with its emerald-green waters, offering serene boat rides through the mesmerizing mangrove forests. Venturing towards Sadapathor reveals a hidden gem – a pristine waterfall surrounded by lush greenery, perfect for those seeking solitude in nature. Bichanakandi's surreal rocky terrain and Shatchori's serene lakeside charm are a testament to Bangladesh's diverse landscapes. Lastly, Tangour Haour, a vast wetland, provides a haven for migratory birds and is a paradise for birdwatchers and nature enthusiasts alike. Each of these destinations offers a unique and enchanting experience for travelers exploring Bangladesh's natural wonders.",
+        "included" : [
+            "Hotel",
+            "Breakfast","Dinner"],
+        "Pickup" : "Sylhet International Airport" ,
+        "Pictures" : ["https://i.postimg.cc/d07CHQgv/Tanguar-Haor.jpg","https://i.postimg.cc/KYbx10FT/b4.jpg","https://i.postimg.cc/0QQgS34z/a5.jpg","https://i.postimg.cc/sxYtCrQ0/6vn40gmf33l61.jpg","https://i.postimg.cc/fT60rQjh/Bichanakandi-Sylhet.jpg","https://i.postimg.cc/FKvkhbBW/satchari-park-4.jpg"]
+    },
+   
+
+    {   "Country" : "Bangladesh",
+    "DivissionId" : "Chitagong",
+    "TourType" : "Group",
+    "Spots" : ["coxs bazar Sea-beach","Saint-Martine","Pothenga Sea-beach","ChondhonathPahar","Kagrachori","Bandarban","Sajek Velly","Rangamati"],
+    "Duration" : "7 days",
+    "Price" : 920,
+    "About" : "Cox's Bazar Sea Beach, often referred to as the Queen of Beaches is an iconic coastal destination in Bangladesh, boasting the longest natural sea beach in the world. Stretching for miles along the Bay of Bengal, it's a paradise for beach lovers and sun-seekers. A short boat ride away lies Saint Martin's Island, a tropical gem known for its pristine beaches, vibrant marine life, and coral reefs, making it a haven for snorkelers and divers. Pothenga Sea Beach, with its golden sands and serene ambiance, offers a quieter alternative for those seeking a more tranquil beach experience. Nearby, Chondhonath Pahar provides breathtaking panoramic views of the surrounding landscapes.Further inland, the hill districts of Kagrachori, Bandarban, and Rangamati beckon with their lush forests, rolling hills, and indigenous cultures. Kagrachori is known for its captivating hilltop viewpoints, while Bandarban offers trekking opportunities to explore its rugged terrains. Rangamati, with its serene lakes and indigenous communities, offers a unique cultural and natural blend.Lastly, the remote beauty of Sajek Valley, nestled amidst the hills of Rangamati, is a treat for nature lovers, providing a peaceful escape from the hustle and bustle of city life. Each of these destinations showcases the remarkable diversity of Bangladesh's landscapes, from its stunning beaches to its enchanting hill districts, making it a country rich in natural beauty and cultural heritage.",
+    "included" : [
+        "Hotel",
+        "Breakfast","Dinner"],
+    "Pickup" : " Shah Amanat International Airport, Chattogram" ,
+    "Pictures" : ["https://i.postimg.cc/W1k4y9sF/blogi-JR0-K1s-WVNFzin-GC-l4r3-Ids-VLyx-Zfkr.jpg","https://i.postimg.cc/C1mM8Xst/nature-landscape-beach-tropical-wallpaper-preview.jpg","https://i.postimg.cc/GmwR4b1t/50104a5ba9bea452159dc69c656a64cf.jpg","https://i.postimg.cc/wjQBH1sg/banglachtder.jpg","https://i.postimg.cc/P5yd90Bq/1628181452.jpg","https://i.postimg.cc/QxrstXDt/nilgiri.jpg","https://i.postimg.cc/9f9JrjCm/saint-martin-s-island.jpg"]
+},
+
+
+{   "Country" : "Bangladesh",
+    "DivissionId" : "Dhaka",
+
+"Spots" : ["Nikli haur","Mitamoin","Bangabondu safari park","Sonargoun","Panama city","Ahsan manjil","National memorial front"],
+"Duration" : "3 days",
+"Price" : 220,
+"About" : "Nikli Haor, a hidden gem in Bangladesh, is a sprawling wetland area located in the northeastern region. It's a paradise for birdwatchers and nature enthusiasts, with its vast expanse of water, lush green surroundings, and a diverse range of migratory and resident bird species.Mitamoin, situated in the Sylhet division, is a place of tranquility and natural beauty. Its rolling tea gardens, serene waterfalls, and vibrant orange groves make it a serene escape for those seeking respite from the hustle and bustle of city life.Bangabandhu Safari Park, named after the founding father of Bangladesh, Sheikh Mujibur Rahman, is a wildlife sanctuary located in Gazipur. It's home to a variety of animals, including Bengal tigers, lions, and various species of deer, providing a unique opportunity for wildlife enthusiasts to observe these magnificent creatures up close.Sonargaon, also known as the Golden Village, is a historic town with a rich heritage. It boasts ancient architecture, traditional Bengali houses, and a vibrant arts and crafts scene, making it a cultural and historical hub worth exploring.Panama City, located in Chittagong, is a bustling commercial and industrial hub known for its vibrant markets, seafood delicacies, and the bustling activity of the Chittagong port.Ahsan Manzil, also known as the Pink Palace, is a historical and architectural marvel located in Dhaka. This grand palace showcases the rich history and opulence of the Nawabs of Dhaka and is now a museum that offers a glimpse into the country's colonial past.The National Memorial Front, located in Savar, is a somber and significant site dedicated to the memory of the martyrs who gave their lives during the Bangladesh Liberation War in 1971. It serves as a symbol of the nation's struggle for independence and is an important place for reflection and remembrance.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+    "TourType" : "Group",
+"Pickup" : "Shajalal international Airport,Dhaka" ,
+"Pictures" : ["https://i.postimg.cc/SsFqMq9D/Nikli-Haor-Road-1000x530.jpg","https://i.postimg.cc/gkSWK3Rw/hqdefault.jpg","https://i.postimg.cc/m26v9BfC/panam-nagar-sonargaon-latest-building-768-o.jpg","https://i.postimg.cc/htT2GBSS/Ahsan-Manzil-Museum-Admission-Ticket.jpg","https://i.postimg.cc/hjPsMQVj/national-memmorial-front.jpg","https://i.postimg.cc/KvLW1LfS/e978af24b4f8f8001e1e48599059cb1c6de049be-WN.jpg","https://i.postimg.cc/Yqw3yP6Z/all-weather-road-mithamain-haor.jpg"]
+},
+
+
+{   "Country" : "Bangladesh",
+    "DivissionId" : "Barishal",
+    "TourType" : "Group",
+"Spots" : ["Kuakata Sea beach","Gangamati Reserved Forest Kuakata","Durga Sagar","Lakutia Zamindar Bari","Fatrar Char"],
+"Duration" : "3 days",
+"Price" : 220,
+"About" : "  Kuakata Sea Beach, often referred to as the Daughter of the Sea, is a captivating coastal destination situated in southern Bangladesh. Known for its unique feature of offering both sunrise and sunset views over the Bay of Bengal, Kuakata is a tranquil and picturesque location that attracts tourists and pilgrims alike. It's a place where the horizon meets the sea, creating a mesmerizing spectacle for visitors.Gangamati Reserved Forest in Kuakata is a haven for nature enthusiasts and birdwatchers. This lush forest is home to a variety of wildlife and provides an opportunity for ecotourism and exploration of the region's rich biodiversity.Durga Sagar is a significant and historical pond in Kuakata, surrounded by lush greenery and adorned with a stunning Hindu temple dedicated to the goddess Durga. It's a serene and culturally significant site, often visited by devotees and tourists alike.Lakutia Zamindar Bari, a historic mansion located in the Lakutia village near Kuakata, offers a glimpse into the architectural grandeur and cultural heritage of the region. The zamindar bari (landlord's house) is a testament to the opulence of the zamindars who once lived there and is now a place of historical interest.Fatrar Char, located near Kuakata, is an offbeat destination that promises a serene escape from the hustle and bustle of city life. This isolated and tranquil island is known for its serene beaches, mangrove forests, and a serene environment that allows visitors to reconnect with nature.Kuakata and its surrounding attractions offer a blend of natural beauty, cultural heritage, and tranquility, making it a must-visit destination for those exploring the southern coast of Bangladesh. ",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Barishal Airport,Barishal" ,
+"Pictures" : ["https://i.postimg.cc/2jdcmmSr/6753458-Kuakata-Sea-Beach-Bangladesh.jpg","https://i.postimg.cc/TY7cYPMM/eco-park.jpg","https://i.postimg.cc/9f3ZrRLS/jhau-forest.jpg","https://i.postimg.cc/HL2ndVRb/photo-1601560496330-b654cca141d2.jpg","https://i.postimg.cc/yNV6Q7xx/Website-in-1.jpg","https://i.postimg.cc/R0V637cg/Kuakata-Sea-Beach-1200x675.jpg"]
+},
+
+
+{   "Country" : "Bangladesh",
+    "DivissionId" : "Khulna",
+    "TourType" : "Group",
+"Spots" : ["Sundarbans",
+"Shaat Gombuj Mosque",
+"Rabindranath Tagore's Shilaidaha Kuthibari",
+"Ghora Dighi",
+"Lalon Academy and Shrines"],
+"Duration" : "3 days",
+"Price" : 220,
+"About" : "The Sundarbans, a UNESCO World Heritage Site, is a vast mangrove forest in the southwestern region of Bangladesh, known for its dense network of waterways, diverse wildlife, and the famous Bengal tiger. It's a unique and ecologically significant ecosystem where the land and water meet, providing a habitat for various endangered species.The Shaat Gombuj Mosque, also known as the Sixty Dome Mosque, is a historical architectural marvel located in Bagerhat. It's an impressive example of medieval Islamic architecture and a UNESCO World Heritage Site, featuring 60 domes and intricate terracotta ornamentation.Rabindranath Tagore's Shilaidaha Kuthibari is a serene and historic mansion located in Kushtia, Bangladesh. This was the ancestral home of the Nobel laureate poet Rabindranath Tagore, and it served as a source of inspiration for many of his literary works. Today, it's a museum that showcases the life and works of Tagore.Ghora Dighi, or the Horse Pond, is a historic water reservoir located in Pabna. It's known for its ancient stone steps and architectural significance, as it once served as a bathing place for horses and elephants during the medieval period.Lalon Academy and Shrines are dedicated to Lalon Shah, a mystic poet, and philosopher who is a central figure in the Baul tradition of folk music and spirituality. These shrines, located in Kushtia, are pilgrimage sites for Baul followers and those interested in the mystic traditions of Bangladesh. They celebrate Lalon's teachings and musical legacy.Each of these attractions represents a different facet of Bangladesh's rich cultural and natural heritage, offering visitors a glimpse into the country's history, spirituality, and artistic achievements.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Barisal Airport " ,
+"Pictures" : ["https://i.postimg.cc/tR5g6Z4f/wp2519762.jpg","https://i.postimg.cc/D0jFMGWw/sundarban-1.jpg","https://i.postimg.cc/j5vrDf44/bangabondhu-island-02.jpg","https://i.postimg.cc/J0tSt2nR/454137-Kotka-Beach.jpg","https://i.postimg.cc/sfkRv3p8/maxresdefault.jpg","https://i.postimg.cc/KvxJ9VFj/Khulna-Divisional-Museum-01.jpg"]
+},
+
+
+
+
+
+
+
+{   "Country" : "India",
+    "DivissionId" : "Kashmir",
+    "TourType" : "Group",
+"Spots" : ["Srinagar",
+"Sonmarg",
+"Gulmarg",
+"Pahalgam",
+"Aru Valley","Patnitop","Sanasar","Vaishno Devi Temple","Chandanwari"],
+"Duration" : "12 days",
+"Price" : 2220,
+"About" : "Srinagar, often called the Venice of the East, is the summer capital of Jammu and Kashmir, India. It's renowned for its serene Dal Lake, where traditional houseboats and shikara boats glide on calm waters, creating an enchanting atmosphere. The city is also famous for its Mughal gardens, historic mosques, and vibrant local markets.Sonmarg, nestled in the heart of the Himalayas, is a breathtaking destination known for its snow-capped peaks and lush meadows. It's a gateway to some of the most captivating treks and adventure activities in the region, making it a paradise for outdoor enthusiasts.Gulmarg, located not far from Srinagar, is a pristine hill station and a popular skiing destination in the winter. In the summer, it transforms into a lush green paradise with vibrant wildflowers, offering panoramic views of the surrounding mountains and a famous golf course.Pahalgam, often referred to as the Valley of Shepherds, is a serene town on the banks of the Lidder River. It's a base for exploring the stunning Aru Valley, Betaab Valley, and other nearby attractions. Pahalgam is also known for its pony rides and trekking trails.Aru Valley, located near Pahalgam, is a hidden gem surrounded by alpine meadows and pristine landscapes. It's a peaceful retreat for nature lovers and trekkers, offering a tranquil escape from the hustle and bustle of city life.Patnitop, situated in the Udhampur district of Jammu and Kashmir, is a charming hill station known for its lush greenery and panoramic views of the Shivalik Range. It's a popular destination for trekking, paragliding, and nature walks.Sanasar, located near Patnitop, is another serene spot with lush forests and opportunities for adventure activities like paragliding and camping. It's an ideal place for those seeking solitude in nature.Vaishno Devi Temple, perched on the Trikuta Mountains, is one of the most revered Hindu pilgrimage sites in India. Devotees undertake a challenging trek to reach the temple, where they seek the blessings of Goddess Vaishno Devi.Chandanwari is the starting point for the famous Amarnath Yatra, an annual pilgrimage to the Amarnath Cave Temple. The trek to the cave, situated in a glacier, is an arduous journey undertaken by thousands of devotees seeking the sacred ice Shiva Lingam.These destinations in Jammu and Kashmir offer a diverse range of experiences, from serene natural beauty to spiritual pilgrimage, making the region a captivating and culturally rich destination for travelers.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Srinagar Airport,India" ,
+"Pictures" : ["https://i.postimg.cc/j2M8jH7Y/blue-gulmarg-himalayas-india-wallpaper-preview.jpg","https://i.postimg.cc/1RvMwKfL/desktop-wallpaper-srinagar-gulmarg-pahalgam-tour-5-days-kashmir-tourism.jpg","https://i.postimg.cc/RV8RbV1d/HD-wallpaper-pulsar-220f-220-220f-india-jammu-kashmir.jpg","https://i.postimg.cc/L5Wz7NP5/Sonmarg-Kashmir.jpg","https://i.postimg.cc/XvW9TZrf/istockphoto-1020385928-612x612.jpg","https://i.postimg.cc/L6Zf5kfk/wp2874386.jpg"]
+},
+
+
+
+{   "Country" : "India",
+    "DivissionId" : "Kolkata",
+    "TourType" : "Group",
+"Spots" : ["Darjeeling",
+"Sundarban",
+"sandakphu",
+"Dooars",
+"Jaldapara Wildlife Sanctuary"],
+"Duration" : "15 days",
+"Price" : 2550,
+"About" : "Darjeeling, located in the Indian state of West Bengal, is a charming hill station renowned for its tea gardens, stunning vistas of the Himalayas, and a vibrant blend of British colonial architecture and Tibetan culture. The Darjeeling Himalayan Railway, a UNESCO World Heritage Site, offers a nostalgic steam train journey through the picturesque landscapes.Sundarbans, shared by India and Bangladesh, is the largest mangrove forest in the world and a UNESCO World Heritage Site. It's known for its rich biodiversity, including the endangered Bengal tiger, saltwater crocodile, and various bird species. The network of waterways in Sundarbans makes it a unique and ecologically significant ecosystem.Sandakphu, often referred to as the trekkers' paradise, is the highest peak in West Bengal and offers breathtaking panoramic views of the Himalayas, including the iconic peaks of Everest and Kanchenjunga. Trekkers are drawn to Sandakphu for its challenging yet rewarding trekking trails.Dooars, located in the foothills of the Eastern Himalayas, is a region known for its lush tea gardens, wildlife sanctuaries, and picturesque landscapes. It's an excellent destination for nature lovers and wildlife enthusiasts, with opportunities for jungle safaris and birdwatching.Jaldapara Wildlife Sanctuary, situated in the Dooars region, is home to the Indian one-horned rhinoceros and a variety of other wildlife species, including elephants, leopards, and Bengal tigers. Visitors can explore the sanctuary through jeep safaris and elephant rides, providing a unique wildlife experience in this pristine natural habitat.These destinations in West Bengal, India, offer a diverse range of experiences, from the serene beauty of Darjeeling's hills to the wild and untamed wilderness of the Sundarbans and the adventure of trekking in Sandakphu. The region is a haven for nature enthusiasts and explorers seeking a blend of natural beauty and cultural diversity.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Kolkata international Airport,India" ,
+"Pictures" : ["https://i.postimg.cc/90239Y04/360-F-387399583-V6-Fd-OK4-Rqd-AJZVBDAi-Aw-Pdjt-Bu-Pl-YLYt.jpg","https://i.postimg.cc/DyBVWsTZ/brown-and-white-deer-during-daytime.jpg","https://i.postimg.cc/KY3CsHgk/jaldapra.jpg","https://i.postimg.cc/2j7MJv3w/maxresdefault-1.jpg","https://i.postimg.cc/Qdwy5JnX/maxresdefault.jpg"]
+},
+
+
+
+
+
+{   "Country" : "India",
+    "DivissionId" : "Assam",
+    "TourType" : "Group",
+"Spots" : ["Haflong",
+"Tawang",
+"Jorhat",
+"Silchar",
+"Dibrugarh","Bhalukpong"],
+"Duration" : "10 days",
+"Price" : 1720,
+"About" : "Haflong, often referred to as the Switzerland of the East, is a picturesque hill station located in the Dima Hasao district of Assam, India. Nestled in the lush green landscapes of the North Cachar Hills, Haflong offers serene views of rolling hills, pristine lakes, and vibrant tribal culture, making it a perfect destination for nature lovers and adventure seekers.Tawang, situated in the Indian state of Arunachal Pradesh, is a remote and awe-inspiring destination. It's renowned for its pristine landscapes, including the stunning Tawang Monastery, which is the largest Buddhist monastery in India. The town is surrounded by snow-capped peaks and is a gateway to the spectacular Sela Pass.Jorhat, located in the northeastern state of Assam, is known as the Tea Capital of India. It's a significant center for tea production and offers insights into the tea plantation culture with visits to historic tea estates. Jorhat is also a gateway to the enchanting Majuli Island, the world's largest river island.Silchar, the second-largest city in Assam, is known for its rich cultural diversity and natural beauty. It's surrounded by lush tea gardens and is a hub for trade and commerce in the region. Silchar also serves as the gateway to the scenic hill station of Aizawl in Mizoram.Dibrugarh, often called the Tea City of India, is another major city in Assam, famous for its tea gardens and the Brahmaputra River. It's a bustling urban center with a blend of modernity and traditional Assamese culture. Dibrugarh also serves as a gateway to several wildlife sanctuaries and the scenic town of Tinsukia.Bhalukpong, situated in the West Kameng district of Arunachal Pradesh, is a serene destination known for its lush forests and the Kameng River. It's a gateway to the beautiful Kameng Wildlife Sanctuary and offers opportunities for trekking and exploring the natural beauty of the region.These destinations in the northeastern part of India showcase the incredible diversity of landscapes, cultures, and experiences that this region has to offer, from the tranquil hill stations to the vibrant tea gardens and the rich cultural heritage of Assam and Arunachal Pradesh.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Tezpur (TEZ) Airport ,India" ,
+"Pictures" : ["https://i.postimg.cc/xTr8swJH/assam-india-s-haflong-lake-hd-waterfall-oxvirojjwbyrpslz.jpg","https://i.postimg.cc/6QQp2wgs/Beautiful-Jagannath-Temple-of-Dibrugarh.jpg","https://i.postimg.cc/FsQFb08V/istockphoto-187438336-170667a.jpg","https://i.postimg.cc/q7gpBw64/istockphoto-1165696115-612x612.jpg","https://i.postimg.cc/x8VQRSx1/sddefault.jpg","https://i.postimg.cc/L6TSzwzm/tea-garden-in-india.jpg"]
+},
+
+
+
+
+
+
+{   "Country" : "India",
+    "DivissionId" : "Kerala",
+    "TourType" : "Group",
+"Spots" : ["Backwaters of Alleppey ",
+"Munnar",
+"Thekkady",
+"Kovalam",
+"Wayanad","Varkala","Poovar Island","Athirapally Waterfalls"],
+"Duration" : "15 days",
+"Price" : 2270,
+"About" : "The backwaters of Alleppey, also known as Alappuzha, are a network of serene and interconnected canals, rivers, and lakes in the Kerala region of India. They offer a unique and tranquil experience, with houseboat cruises being a popular way to explore the lush green landscapes, coconut groves, and traditional villages that line the waterways.Munnar is a breathtaking hill station located in the Western Ghats of Kerala. It's known for its verdant tea plantations, misty mountains, and cool climate, making it a favored destination for nature enthusiasts and honeymooners.Thekkady is home to the Periyar National Park and Wildlife Sanctuary, where visitors can embark on wildlife safaris and boat rides to observe a variety of wildlife, including elephants, tigers, and various bird species. The region is also known for its spice plantations.Kovalam, located along the coastline of Kerala, is a popular beach destination known for its crescent-shaped beaches with golden sands and shallow waters. It offers a mix of relaxation, water sports, and vibrant nightlife.Wayanad, situated in the Western Ghats, is a lush and hilly district known for its scenic beauty, coffee and spice plantations, and wildlife sanctuaries. It's a haven for trekking and nature enthusiasts, with attractions like Chembra Peak and Edakkal Caves.Varkala is a coastal town in Kerala, known for its stunning cliff-side views overlooking the Arabian Sea. It's famous for its unique blend of beach and spirituality, with a vibrant beach culture and numerous yoga and Ayurveda centers.Poovar Island, located near Thiruvananthapuram, is a serene and untouched paradise where the Neyyar River meets the Arabian Sea. It's known for its tranquil backwaters, golden sandy beaches, and estuary, offering a peaceful escape from the crowds.Athirapally Waterfalls, often called the Niagara of India, is a breathtaking cascade located in the Thrissur district of Kerala. The falls are surrounded by lush green forests and are a popular attraction for nature lovers and photographers.Each of these destinations in Kerala, India, offers a unique and memorable travel experience, from the tranquil backwaters of Alleppey to the misty mountains of Munnar and the vibrant beaches of Kovalam and Varkala. Kerala's natural beauty and cultural richness make it a top choice for travelers seeking a diverse and immersive experience.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Thiruvananthapuram International Airport,India" ,
+"Pictures" : ["https://i.postimg.cc/ZK1RM1Wp/360-F-356154873-RPQjp-E3-HQVVw5-FNfz-MU60kj-Sncwo-VD4m.jpg","https://i.postimg.cc/Jh8h1Zch/2754528.jpg","https://i.postimg.cc/HxZW4KGJ/1510652226-llh.jpg","https://i.postimg.cc/nhbFkBW1/istockphoto-888526036-612x612.jpg","https://i.postimg.cc/266r6wqC/Athirapally-falls-in-Thrissur-16.jpg","https://i.postimg.cc/BZRLr8yj/istockphoto-1232851325-612x612.jpg"]
+},
+
+
+
+{   "Country" : "India",
+    "DivissionId" : "Ladakh",
+    "TourType" : "Group",
+"Spots" : ["TSO MORIRI ",
+"HEMIS MONASTERY",
+"PANGONG TSO LAKE",
+"TURTUK",
+"SAND DUNES AT HUNDER","KHARDUNGA LA PASS","SANGAM AT NIMMU"],
+"Duration" : "12 days",
+"Price" : 1920,
+"About" : "Tso Moriri, nestled in the Ladakh region of India, is a breathtaking high-altitude lake surrounded by towering mountains. The pristine blue waters of the lake are a haven for migratory birds and a tranquil spot for camping and photography, making it a hidden gem in the Himalayas.Hemis Monastery, one of the largest and wealthiest monasteries in Ladakh, is renowned for its annual Hemis Festival, a vibrant celebration of Tibetan Buddhism with masked dances and rituals. The monastery is also known for its stunning architecture and ancient relics.Pangong Tso Lake, famously featured in the movie 3 Idiots, is an iconic high-altitude lake straddling the India-China border in Ladakh. Its striking shades of blue against the barren landscape create a surreal and photogenic setting.Turtuk, a remote village in the Nubra Valley, offers a unique cultural experience. It was once a part of Pakistan and is known for its Balti heritage, apricot orchards, and stunning views of the Karakoram Range. It's a place where travelers can immerse themselves in the local culture and hospitality.The sand dunes at Hunder in Nubra Valley are an unexpected desert oasis surrounded by towering mountains. Visitors can enjoy camel rides along the dunes, offering a stark contrast to the rugged terrain of Ladakh.Khardung La Pass, often touted as one of the world's highest motorable passes, is a challenging yet exhilarating drive. The pass offers panoramic views of the Himalayas and serves as a gateway to Nubra Valley and its unique landscapes.Sangam at Nimmu is the confluence of the Zanskar and Indus Rivers, surrounded by dramatic rocky terrain. The meeting point of these two mighty rivers is not only a spectacular sight but also holds cultural and spiritual significance in the region.These destinations in Ladakh, India, provide travelers with a chance to explore some of the most stunning and remote landscapes on the planet, along with rich cultural experiences, ancient monasteries, and natural wonders like high-altitude lakes and mountain passes.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Kushok Bakula Rimpochee Airport" ,
+"Pictures" : ["https://i.postimg.cc/VNtXhqsL/8a8c17dced42c021d6951fd4f11c90ab.jpg","https://i.postimg.cc/wMwNNF2F/360-F-166675660-LPe-Yebur-PMSJTKGb-Gi2f-Vgj-EG0wmq-SH2.jpg","https://i.postimg.cc/Nj9Xy6H7/e99df2ed573a51b7b4bb61f89739348e.jpg","https://i.postimg.cc/vm56hGX4/jammu-kashmir-pangong-lake-gray-mountain-wallpaper-preview.jpg","https://i.postimg.cc/vm56hGX4/jammu-kashmir-pangong-lake-gray-mountain-wallpaper-preview.jpg","https://i.postimg.cc/j225pT6Q/photo2jpg.jpg"]
+},
+
+
+
+
+{   "Country" : "India",
+    "DivissionId" : "Uttar pradesh",
+    "TourType" : "Group",
+"Spots" : ["Agra ",
+" Vindhyachal",
+"Chitrakut",
+"Hastinapur",
+"Firozabad"],
+"Duration" : "14 days",
+"Price" : 1560,
+"About" : "Agra, located in the Indian state of Uttar Pradesh, is famous worldwide for the iconic Taj Mahal, a UNESCO World Heritage Site and one of the Seven Wonders of the World. Agra is also home to other historic and architectural marvels such as the Agra Fort and Fatehpur Sikri, making it a must-visit destination for history and culture enthusiasts.Vindhyachal is a sacred town situated in the Mirzapur district of Uttar Pradesh, known for the Vindhyavasini Devi Temple, one of the most revered Shakti Peethas in India. It's a significant pilgrimage site for devotees of the Hindu goddess Durga, attracting a large number of visitors throughout the year.Chitrakut, located in the Bundelkhand region of Uttar Pradesh, is a place of great religious importance in Hinduism. It's believed to be the forest where Lord Rama, his wife Sita, and his brother Lakshmana spent their exile years. Chitrakut is dotted with temples and sacred sites associated with the Ramayana, making it a cherished destination for pilgrims.Hastinapur, situated near Meerut in Uttar Pradesh, is traditionally considered the capital of the ancient Kuru Kingdom in Hindu mythology. It's mentioned in the Indian epic Mahabharata and is associated with several legendary events and characters from the epic. The town is home to various historical and archaeological sites.Firozabad, known as the City of Glass, is a prominent center for glass manufacturing in India. It has a rich tradition of glassblowing and glasswork, producing a wide range of glassware, including bangles, decorative items, and glassware. Firozabad's glass industry has been a source of livelihood for generations and contributes significantly to India's glass production.These destinations in Uttar Pradesh, India, offer a blend of cultural, historical, and religious experiences, from the iconic beauty of the Taj Mahal in Agra to the spiritual significance of Vindhyachal, Chitrakut, and Hastinapur. Firozabad, on the other hand, showcases the craftsmanship and industrial heritage of the region.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Chaudhary Charan Singh International Airport (Amausi Airport) Lucknow , India" ,
+"Pictures" : ["https://i.postimg.cc/sXqd2RdJ/1000-F-525678856-ESToj-Fj-Genfyz-D3dd-VW0l-BUrg-Abu-Scyp.jpg","https://i.postimg.cc/15S7rzHq/1544345331-Vindhyavasini-Mata5.jpg","https://i.postimg.cc/bwBRWYQL/Ashtapad.jpg","https://i.postimg.cc/rFyCpRjQ/one-day-trip.jpg","https://i.postimg.cc/t4Y330L6/taj-mahal-agra-indian-4k-5k-wallpaper-preview.jpg"]
+},
+
+
+
+{   "Country" : "India",
+    "DivissionId" : "Rajasthan",
+    "TourType" : "Group",
+"Spots" : ["chittorgarh fort ",
+" Mount Abu",
+"Sambhar Salt Lake",
+"Kumbhalgarh",
+"Jawai Bandh","Bharatpur Bird Sanctuary"],
+"Duration" : "15 days",
+"Price" : 1230,
+"About" : "Chittorgarh Fort, located in the city of Chittorgarh in Rajasthan, India, is one of the largest and most historically significant forts in the country. This UNESCO World Heritage Site boasts a rich history and stands as a symbol of Rajput valor and sacrifice. The fort complex is known for its magnificent architecture, stunning palaces, and historic temples.Mount Abu, nestled in the Aravalli Range, is Rajasthan's only hill station and a popular retreat from the scorching desert heat. It offers picturesque landscapes, serene lakes, and the Dilwara Temples, renowned for their intricate marble carvings. Visitors can also explore the Nakki Lake and enjoy scenic viewpoints.Sambhar Salt Lake, located in the Thar Desert of Rajasthan, is India's largest inland salt lake. It's a unique and surreal landscape, with vast stretches of white salt crust. The lake is also a significant habitat for migratory birds, making it a birdwatcher's paradise.Kumbhalgarh Fort, situated in the Rajsamand district of Rajasthan, is known for its massive walls, which are second in length only to the Great Wall of China. This formidable fort offers stunning views of the surrounding Aravalli hills and houses several temples, including the Badal Mahal.Jawai Bandh, in the Pali district of Rajasthan, is known for its scenic dam and reservoir. It's a wildlife conservation area where visitors can spot leopards, crocodiles, and various bird species in their natural habitat. Jeep safaris and boat rides are popular activities here.Bharatpur Bird Sanctuary, also known as Keoladeo National Park, is a UNESCO World Heritage Site located in Bharatpur, Rajasthan. It's one of the most famous bird sanctuaries in India, attracting numerous migratory and resident bird species, including the iconic Siberian cranes. It's a paradise for birdwatchers and nature enthusiasts.These destinations in Rajasthan, India, offer a diverse range of experiences, from the historical grandeur of Chittorgarh Fort to the natural beauty and wildlife encounters in Mount Abu, Sambhar Salt Lake, Kumbhalgarh, Jawai Bandh, and Bharatpur Bird Sanctuary. Each place showcases the rich cultural and natural heritage of this northwestern state in India.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Jaipur International Airport" ,
+"Pictures" : ["https://i.postimg.cc/RV890K9B/360-F-326270313-l-F11ix5c2w2mfr09-X2-YFz-M3q5-Tvt-RLe2.jpg","https://i.postimg.cc/HL0C3NMY/360-F-328906518-Xus-Sdd-RAkuc-CWQK1m4a-SEfs-FFgp9-Exhb.jpg","https://i.postimg.cc/k4MLsg9s/a6e2f09a61f3dd9e088d93489863bf33-0000000.jpg","https://i.postimg.cc/g0sTxbRZ/castles-india-water-pools-chittorgarh-fort-1600x1178-nature-water-hd-art-wallpaper-preview.jpg","https://i.postimg.cc/Y05X5rcJ/HD-wallpaper-pelicans-pelican-white-blue-bharatpur-bird-sanctuary-bird-pasari.jpg"]
+},
+
+
+{   "Country" : "India",
+    "DivissionId" : "Tamil nadu",
+    "TourType" : "Group",
+"Spots" : ["Dhanushkodi ",
+" Kanyakumari",
+"Courtallam ",
+"Velankanni Beach",
+"Dharmapuri","Kodaikanal","Coonoor ","Kotagiri "],
+"Duration" : "15 days",
+"Price" : 1220,
+"About" : "Dhanushkodi, located in the southernmost part of Tamil Nadu, India, is a ghost town known for its eerie beauty and tragic history. It was devastated by a cyclone in 1964, which wiped out most of the town. Today, it's a serene and desolate place where visitors can explore the ruins and enjoy the picturesque views of the Bay of Bengal.Kanyakumari, also known as Cape Comorin, is the southernmost tip of the Indian subcontinent. It's a famous pilgrimage destination known for its stunning sunrise and sunset views over the confluence of the Arabian Sea, the Bay of Bengal, and the Indian Ocean. The town is also home to various temples and the Vivekananda Rock Memorial.Courtallam, often referred to as the Spa of South India, is a picturesque hill station famous for its numerous waterfalls and their healing properties. It's a popular destination for those seeking relaxation and rejuvenation through natural therapy.Velankanni Beach, located in Velankanni, Tamil Nadu, is a revered Christian pilgrimage site known for the Basilica of Our Lady of Good Health. The beach provides a serene backdrop for visitors and pilgrims alike.Dharmapuri, situated in the western part of Tamil Nadu, is known for its natural beauty and the Hogenakkal Falls, often called the Niagara Falls of India. The town is a gateway to explore the scenic beauty of the falls and the surrounding forests.Kodaikanal, often referred to as the Princess of Hill Stations, is a popular hill station in Tamil Nadu. It's known for its lush landscapes, misty hills, and pristine lakes. The town offers a tranquil escape with opportunities for boating, trekking, and enjoying the cool climate.Coonoor, nestled in the Nilgiri Hills, is another charming hill station in Tamil Nadu. It's known for its tea gardens, scenic viewpoints, and the Nilgiri Mountain Railway, which offers a scenic train ride through the picturesque landscapes.Kotagiri, located in the Nilgiri Hills, is a lesser-known but equally beautiful hill station. It offers a peaceful environment, lush tea estates, and numerous trekking trails, making it an ideal destination for nature lovers.These destinations in Tamil Nadu, India, showcase the state's diverse landscapes, from the tranquil beaches of Velankanni to the misty hills of Kodaikanal, offering a range of experiences for travelers seeking natural beauty, culture, and spirituality.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Chennai International Airport" ,
+"Pictures" : ["https://i.postimg.cc/J7vZRHfw/59-596808-s.jpg","https://i.postimg.cc/tgqVB3x6/360-F-501605616-YZPu-PHv-JQakr-ORt8-Nn-Wh-IZu-DA5-Xs-Mov6.jpg","https://i.postimg.cc/HnyJr3fq/HD-wallpaper-ooty-coonoor-highway-hillstation-india-nature-lover-sky-tamilnadu-tea-fields-trees.jpg","https://i.postimg.cc/ry3Y0JdQ/istockphoto-1175506409-612x612.jpg","https://i.postimg.cc/nhRmrdrL/pc-ramanarayanan-kallidai.jpg"]
+},
+
+
+
+
+
+
+
+
+
+
+
+{   "Country" : "Pakistan",
+    "DivissionId" : "Gilgit-Baltistan",
+    "TourType" : "Group",
+"Spots" : ["Shangrilla Lake & Resort Kachura Baltistan ",
+" Baltoro Glacier",
+"Nagar Valley ",
+"Passu",
+"Chunda Valley Skardu ","Rainbow Lake"],
+"Duration" : "7 days",
+"Price" : 1040,
+"About" : "Shangrilla Lake & Resort Kachura Baltistan, often referred to as Heaven on Earth, is a stunning natural retreat located in the Gilgit-Baltistan region of Pakistan. The resort is situated amidst the serene landscapes of Kachura Village and offers breathtaking views of Shangrilla Lake. It's a peaceful getaway for travelers seeking tranquility and natural beauty.Baltoro Glacier, one of the largest glaciers outside the polar regions, is a marvel of nature situated in the Karakoram Range of Gilgit-Baltistan. Trekkers from around the world visit Baltoro Glacier to embark on challenging and rewarding expeditions to some of the world's highest peaks, including K2.Nagar Valley, nestled in the Gilgit-Baltistan region, is a picturesque valley known for its stunning landscapes, lush green meadows, and pristine lakes. It's a paradise for hikers and nature enthusiasts, offering opportunities for trekking and exploring the local culture.Passu, a charming village in the Gojal Valley of Gilgit-Baltistan, is famous for its stunning views of the Karakoram Range, particularly the iconic Cathedral Peaks. Passu is a starting point for treks and adventures in the region, and it offers a glimpse into the traditional way of life in the mountains.Chunda Valley in Skardu, Gilgit-Baltistan, is a lesser-known gem offering breathtaking landscapes, including lush green valleys, crystal-clear rivers, and rugged terrain. It's a destination for those seeking solitude and natural beauty.Rainbow Lake, also in the Skardu region, is a high-altitude glacial lake known for its vibrant colors, particularly during the sunrise and sunset. The trek to Rainbow Lake takes travelers through beautiful alpine meadows and offers stunning views of the surrounding peaks.These destinations in Gilgit-Baltistan, Pakistan, showcase the region's unparalleled natural beauty, including serene lakes, towering peaks, and pristine valleys. They are a paradise for trekkers, nature lovers, and adventurers looking to explore some of the world's most breathtaking landscapes.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Gilgit Airport,Pakistan" ,
+"Pictures" : ["https://i.postimg.cc/tgNNTRh3/6-Shangrila-Resort-5.jpg","https://i.postimg.cc/1X2pT8QQ/360-F-371084542-Ki-Hp-Vi-KDnj-XB9vn3h-Si-N8-Up3-Qu9rt-GV3.jpg","https://i.postimg.cc/ZYMF0MyM/276237812-499089294917078-5922296679052263420-n.jpg","https://i.postimg.cc/rpM5v6vK/istockphoto-1407442838-612x612.jpg","https://i.postimg.cc/LsDjSCpv/mesmerizing-view-of-nagar-valley-northern-area-of-pakistan-picture-by-sajjad-sarwar-wallpaper.jpg"]
+},
+
+{   "Country" : "Pakistan",
+    "DivissionId" : "Panjab",
+    "TourType" : "Group",
+"Spots" : ["Patriata ",
+"Marala",
+"Fort Munro",
+"Mangla Dam",
+"Soon Valley "],
+"Duration" : "5 days",
+"Price" : 820,
+"About" : "Patriata, commonly known as New Murree, is a popular hill station in the Punjab province of Pakistan. It's known for its lush forests, scenic landscapes, and pleasant weather, making it a favored destination for domestic tourists seeking a respite from the summer heat.Marala, located near Sialkot in Punjab, Pakistan, is known for the Marala Headworks, an important irrigation structure on the Chenab River. It's a picturesque spot for birdwatching, particularly during the winter months when migratory birds flock to the area.Fort Munro, situated in the Dera Ghazi Khan district of Punjab, Pakistan, is a serene hill station offering cool temperatures and scenic views. It's a quiet retreat for those looking to escape the heat and enjoy nature in a peaceful setting.Mangla Dam, one of the largest dams in Pakistan, is located on the Jhelum River near Mirpur in Azad Kashmir. The dam has created the Mangla Reservoir, which is not only crucial for water storage and irrigation but also offers opportunities for boating, fishing, and enjoying the surrounding landscapes.Soon Valley, situated in the Khushab district of Punjab, Pakistan, is a hidden gem known for its natural beauty, including waterfalls, lakes, and lush green hills. It's a destination for trekking and exploring the region's diverse landscapes.These destinations in Pakistan showcase the country's natural diversity, from hill stations like Patriata and Fort Munro to the scenic beauty of Marala and the recreational opportunities offered by Mangla Dam. Soon Valley, with its pristine landscapes, adds to the variety of experiences available to travelers in Pakistan.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Faisalabad (LYP) Airport,Pakistan" ,
+"Pictures" : ["https://i.postimg.cc/yxV5drgd/195be4821c758e516f4c2279b541c19c-the-rich-pakistan.jpg","https://i.postimg.cc/5N2TWTWK/aerial-view-of-fort-monroe.jpg","https://i.postimg.cc/CxZ2z81j/hqdefault.jpg","https://i.postimg.cc/mDSX0NXG/image-750x-6409a296f32af.jpg","https://i.postimg.cc/SQD1ddY6/nice-view-of-dam.jpg"]
+},
+
+
+
+{   "Country" : "Pakistan",
+    "DivissionId" : "Azad Jammu and Kashmir",
+    "TourType" : "Group",
+"Spots" : ["Neelum Valley ",
+"Jhelum Valley",
+"Toli Pir",
+"Shounter Lake",
+" Rawalakot "],
+"Duration" : "15 days",
+"Price" : 2520,
+"About" : "Neelum Valley, often referred to as the Paradise on Earth, is a picturesque valley in Azad Kashmir, Pakistan. It's known for its stunning landscapes, lush green valleys, and pristine rivers. Neelum Valley is a haven for nature enthusiasts, trekkers, and those seeking a peaceful escape.Jhelum Valley, located in Azad Kashmir, Pakistan, is another beautiful valley surrounded by majestic mountains. It offers breathtaking scenery, including terraced fields, forests, and glistening streams. The valley is ideal for nature lovers and those looking to explore off-the-beaten-path destinations.Toli Pir is a scenic hilltop located near Rawalakot in Azad Kashmir, Pakistan. It offers panoramic views of the surrounding valleys and is a popular trekking destination. The area is known for its tranquil ambiance and lush green meadows.Shounter Lake, situated in the Shounter Valley of Azad Kashmir, is a pristine high-altitude lake surrounded by snow-capped peaks. It's a remote and untouched destination, making it a favorite spot for trekkers and nature enthusiasts seeking solitude and natural beauty.Rawalakot, often called the City of Lakes,is a charming hill station in Azad Kashmir, Pakistan. It's known for its numerous lakes, lush landscapes, and pleasant weather. Rawalakot is a delightful destination for those looking to relax in a serene environment and explore the natural beauty of the region.These destinations in Azad Kashmir, Pakistan, offer a diverse range of experiences, from the breathtaking beauty of Neelum Valley and Jhelum Valley to the tranquility of Toli Pir and the pristine landscapes of Shounter Lake. Rawalakot adds to the charm of the region with its lakes and picturesque surroundings, making it a great choice for travelers seeking natural beauty and relaxation.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Muzaffarabad Airport,Pakistan" ,
+"Pictures" : ["https://i.postimg.cc/MK0Tgcxm/562.jpg","https://i.postimg.cc/fT5sxYDp/desktop-wallpaper-shounter-lake-fun-cool-nature-forest-lake-mountain.jpg","https://i.postimg.cc/KzXhZNDk/HD-wallpaper-neelam-valley-jammu-kashmir-landscape-mountain-mountains-pak-pakistan-pakistani.jpg","https://i.postimg.cc/HsSGJHtC/Jhelum-Valley.jpg","https://i.postimg.cc/Sx5wrr5T/maxresdefault.jpg"]
+},
+
+
+
+
+{   "Country" : "Pakistan",
+    "DivissionId" : "Balochistan",
+    "TourType" : "Group",
+"Spots" : ["Hanna Lake ",
+"Gwadar Port",
+"Miri Fort Quetta",
+"Lahoot",
+" Urak Valley Balochistan "],
+"Duration" : "8 days",
+"Price" : 1820,
+"About" : "Discover Bangladesh’s incredible natural beauty on this three day Sreemangal tour. Spot native birds at the famous Baikka Beel bird sanctuary. Get amongst the wildlife with a tour of Lowacherra National Park, and experience local culture at a tribal life tour of Adivasi villages. Explore the green tea garden and view the stunning tranquil forest and wetlands. Accommodation is not included in this tour.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Quetta International Airport,Pakistan" ,
+"Pictures" : ["https://i.postimg.cc/L8vc1SBp/desktop-wallpaper-beauty-of-quetta-hanna-lake-is-wonderful-beyond-imagination-but-rides-are-dangerou.jpg","https://i.postimg.cc/Y0fnBNdH/gettyimages-468599956-640x640.jpg","https://i.postimg.cc/J4zchWnJ/mirri-fort-quetta-23-1024.jpg","https://i.postimg.cc/J7PZvdqh/pakistan-gwadar-gwadar-sea-port-coast.jpg","https://i.postimg.cc/9QT4mxGZ/Urak-Valley-Quetta-Balochistan.jpg"]
+},
+
+
+
+
+
+{   "Country" : "Pakistan",
+    "DivissionId" : "Islamabad Capital",
+    "TourType" : "Group",
+"Spots" : ["Faisal Mosque ",
+"Daman-e-Koh",
+"Saidpur Village",
+"Pakistan Monument",
+" Margalla Hills "],
+"Duration" : "7 days",
+"Price" : 1320,
+"About" : "Hanna Lake, located near Quetta, Balochistan, Pakistan, is a stunning man-made lake surrounded by hills. It's a popular recreational spot for both locals and tourists, offering opportunities for boating and picnicking amidst the serene natural beauty.Gwadar Port, situated in the southwestern province of Balochistan, Pakistan, is a strategically important deep-sea port on the Arabian Sea. It's a significant hub for trade and commerce, and its development has brought economic opportunities to the region, making it a key port city.Miri Fort in Quetta, Balochistan, is a historical site that dates back to the British colonial era. It's an iconic landmark in the city and a testament to the region's history. The fort has architectural and historical significance, and its grounds are often used for cultural events and exhibitions.Lahoot, located in the Kalat district of Balochistan, Pakistan, is a remote and pristine valley known for its natural beauty and unique landscapes. It's a destination for trekkers and adventure seekers looking to explore the rugged terrain and experience the tranquility of the region.Urak Valley in Balochistan is known for its lush green landscapes, orchards, and terraced fields. It's a picturesque valley where visitors can enjoy the beauty of nature, take leisurely walks, and experience the local culture of the Balochi people.These destinations in Balochistan, Pakistan, offer a blend of natural beauty, history, and cultural experiences. Hanna Lake and Gwadar Port highlight the region's natural and economic significance, while Miri Fort and Lahoot showcase its historical and natural attractions. Urak Valley provides a serene escape into the countryside of Balochistan.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Islamabad International Airport,Pakistan" ,
+"Pictures" : ["https://i.postimg.cc/d3tQG6kH/Blue-Hour-at-Pakistan-Monument.jpg","https://i.postimg.cc/Vv61JNp2/DYzu-TRo-X4-AADzsb.jpg","https://i.postimg.cc/W3pcy3Nt/Featured-Saidpur-1.jpg","https://i.postimg.cc/CLbYd9Qh/Margalla-Hills-National-Park.jpg","https://i.postimg.cc/NMFPTrG8/pexels-zach-khan-2316826.jpg"]
+},
+
+
+
+
+
+
+
+{   "Country" : "Nepal",
+    "DivissionId" : "Province 4",
+    "TourType" : "Group",
+"Spots" : ["Phewa lake",
+"Muktinath Temple",
+"Tilicho Lake",
+"Begnas Lake",
+" Gorkha "],
+"Duration" : "7 days",
+"Price" : 2420,
+"About" : "Phewa Lake, also known as Phewa Tal, is a stunning freshwater lake located in the city of Pokhara, Nepal. Surrounded by the Annapurna and Machapuchare (Fishtail) mountain ranges, it offers picturesque views and is a popular destination for boating, fishing, and enjoying the serene ambiance.Muktinath Temple, situated in the Mustang district of Nepal, is a significant pilgrimage site for Hindus and Buddhists alike. The temple complex is known for its sacred natural gas flame and 108 water spouts, which are believed to have spiritual significance.Tilicho Lake is one of the highest lakes in the world, located in the Annapurna region of Nepal. Surrounded by towering peaks, it's a challenging trekking destination for adventure enthusiasts. The lake's turquoise waters are a sight to behold amidst the rugged landscapes.Begnas Lake, located near Pokhara in Nepal, is another serene freshwater lake offering tranquility and natural beauty. It's a quieter alternative to Phewa Lake and is surrounded by lush green forests and farmlands, making it a great place for relaxation and nature walks.Gorkha, a historic town in Nepal, is famous for the Gorkha Durbar (Gorkha Palace) and the birthplace of Prithvi Narayan Shah, the first king of unified Nepal. The Gorkha Durbar is an architectural marvel and a symbol of Nepal's unification. The town holds historical and cultural significance.These destinations in Nepal offer a mix of natural beauty, spirituality, adventure, and history. Whether it's the serene lakes like Phewa and Begnas, the religious significance of Muktinath Temple, the high-altitude challenge of Tilicho Lake trek, or the historical heritage of Gorkha, Nepal has a lot to offer to travelers with diverse interests.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Ramechhap Airport,Nepal" ,
+"Pictures" : ["https://i.postimg.cc/fy55kzmt/chandragiri-hills-4679788-1280.jpg","https://i.postimg.cc/nhXTctzr/istockphoto-514651173-612x612.jpg","https://i.postimg.cc/ZnfF4fz6/istockphoto-637696304-612x612.jpg","https://i.postimg.cc/P5vznz38/Nepal-Bhaktapur-66.jpg","https://i.postimg.cc/V6gXW762/Panauti.jpg"]
+},
+
+
+
+{   "Country" : "Nepal",
+    "DivissionId" : "Province 1",
+    "TourType" : "Group",
+"Spots" : ["Everest Base Camp",
+"Namche Bazaar",
+"Tengboche Monastery",
+"Gokyo Lakes",
+" Hile, Dhankuta ","Kanyam Tea Estate"],
+"Duration" : "10 days",
+"Price" : 2920,
+"About" : "Everest Base Camp, located in the Khumbu region of Nepal, is one of the most iconic trekking destinations in the world. Trekkers from around the globe journey to Everest Base Camp to get close to the world's highest peak, Mount Everest, and to witness its awe-inspiring surroundings.Namche Bazaar, often referred to as the Gateway to Everest, is a bustling Sherpa town and a key hub for trekkers in the Khumbu region. It's known for its vibrant market, teahouses, and stunning views of the surrounding mountains, including Ama Dablam and Thamserku.Tengboche Monastery, situated in the Khumbu region of Nepal, is one of the most important and picturesque monasteries in the area. It's known for its spiritual significance and stunning backdrop of Mount Everest and other peaks, making it a serene place for reflection and meditation.Gokyo Lakes, located in the Sagarmatha National Park of Nepal, is a collection of pristine glacial lakes nestled amidst the Himalayan mountains. The lakes are known for their turquoise waters and the Gokyo Ri trek, which offers breathtaking panoramic views of the Himalayas, including Cho Oyu and Everest.Hile, Dhankuta, is a tranquil hill station in eastern Nepal, known for its lush landscapes and serene ambiance. It's an excellent destination for those seeking a peaceful retreat and opportunities for nature walks.Kanyam Tea Estate, situated in the Ilam district of Nepal, is famous for its tea plantations and picturesque tea gardens. Visitors can explore the estate, learn about tea cultivation, and savor freshly brewed tea while enjoying the scenic surroundings.These destinations in Nepal showcase the country's diverse landscapes and attractions, from the challenging trek to Everest Base Camp and the vibrant atmosphere of Namche Bazaar to the spiritual serenity of Tengboche Monastery and the natural beauty of Gokyo Lakes. Hile and Kanyam Tea Estate offer unique experiences in the eastern part of Nepal, known for its lush greenery and tea plantations.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Biratnagar Airport ,Nepal" ,
+"Pictures" : ["https://i.postimg.cc/ryYryRtG/48622715747-fe4a8a5c46-h.jpg","https://i.postimg.cc/fR7ydVkr/Gokyo-Lake-system.jpg","https://i.postimg.cc/d3mQyXVT/istockphoto-472903174-612x612.jpg","https://i.postimg.cc/YSGp3jS7/istockphoto-827794948-612x612.jpg","https://i.postimg.cc/nrHb6LnC/istockphoto-1278734010-612x612.jpg"]
+},
+
+
+{   "Country" : "Nepal",
+    "DivissionId" : "Bagmati Zone",
+    "TourType" : "Group",
+"Spots" : ["Kathmandu",
+"Bhaktapur",
+"Patan ",
+"Chandragiri Hills",
+" Panauti "],
+"Duration" : "15 days",
+"Price" : 2820,
+"About" : "Kathmandu, the capital and largest city of Nepal, is a bustling metropolis nestled in the Kathmandu Valley. It's known for its rich cultural heritage, historic temples, and vibrant street life. Visitors can explore ancient sites like Swayambhunath Stupa (Monkey Temple), Boudhanath Stupa, and the Durbar Square, where they can experience the city's history and spirituality.Bhaktapur, a medieval city in the Kathmandu Valley, is renowned for its well-preserved heritage and architecture. The city's Durbar Square is a UNESCO World Heritage Site and is home to palaces, temples, and intricately carved wooden buildings. Bhaktapur offers a glimpse into Nepal's cultural past and is a hub for traditional art and craft.Patan, also known as Lalitpur, is another ancient city in the Kathmandu Valley and is famous for its Durbar Square, a UNESCO World Heritage Site. The square is adorned with beautiful temples and palaces, showcasing Newari architecture and craftsmanship. Patan is a center for traditional arts, particularly metalwork and sculpture.Chandragiri Hills, located on the outskirts of Kathmandu, offers panoramic views of the valley and the Himalayan peaks. The Chandragiri Cable Car takes visitors to the hilltop, where they can enjoy a serene environment, visit the Bhaleshwor Mahadev Temple, and savor the breathtaking vistas.Panauti, a historic town in the Kathmandu Valley, is known for its traditional Newari architecture, cobbled streets, and serene ambiance. The town is home to ancient temples and offers a tranquil escape from the bustling city life of Kathmandu.These destinations in the Kathmandu Valley, Nepal, provide travelers with a rich cultural and historical experience, from the vibrant streets of Kathmandu to the well-preserved heritage of Bhaktapur and Patan. Chandragiri Hills offers natural beauty and panoramic views, while Panauti provides a glimpse into the traditional Newari culture of Nepal.",
+"included" : [
+    "Hotel",
+    "Breakfast","Dinner"],
+"Pickup" : "Tribhuvan International Airport,Nepal" ,
+"Pictures" : ["https://i.postimg.cc/yxrQv6xq/360-F-214171335-MHCOesf-Svqu-NT04-UZw6-Vj-ASb-DZ3-MRthd.jpg","https://i.postimg.cc/2y3Tbpw0/begnas-lake.jpg","https://i.postimg.cc/bv3QQCdW/D6-79-Muktinath-Temple.jpg","https://i.postimg.cc/rpnf8FGD/istockphoto-487770996-612x612.jpg","https://i.postimg.cc/L5dBXqJ8/Tilicho-Lake.jpg"]
+}
+
+
+
+
+
+  
+
+]
