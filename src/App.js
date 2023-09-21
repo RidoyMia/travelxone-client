@@ -28,6 +28,7 @@ const App = () => {
        {
       user?  <Route path='/:CountryName/:place' element={<TourDetails></TourDetails>}></Route> : <Route path='/:CountryName/:place' element={<Login></Login>}></Route>
        }
+       
         <Route path='/dashboard' element={<Dashboard></Dashboard>}>
           <Route path='users' element={<Users></Users>}></Route>
         </Route>

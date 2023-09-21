@@ -23,7 +23,7 @@ const TourDetails = () => {
       };
       const getReviewHandler = (id) =>{
         fetch(`http://localhost:4000/api/v1/review/${id}`).then(res => res.json()).then(data =>{
-            console.log(data,'review')
+            setRating(data?.data)
         })
       }
     const {place,CountryName} = useParams();
@@ -59,6 +59,7 @@ const TourDetails = () => {
         
         e.target.reset()
     };
+    
 
     const booksubmit = e =>{
         e.preventDefault()
@@ -177,10 +178,18 @@ const TourDetails = () => {
 
                         </div>
                         <div className='py-12'>
-                            {/* this is comment section */}
+                          
+                            {
+                                rating?.map(r =>  <div className=' border rounded-md  border-gray-600 py-4 px-10'>
+                                <h2 className='text-gray-700 text-lg font-semibold'>Name :{r?.name}  </h2>
+                                <p className='pt-1 text-md'>This is good for us</p>
+                            </div>
+                                )
+                            }
                         </div>
                      {user?    <button onClick={()=>document.getElementById('my_modal_1').showModal()} className='py-3 px-14 bg-blue-700 text-white shadow-xl font-semibold'>Your Experience</button> : ""}
                     {/* Open the modal using document.getElementById('ID').showModal() method */}
+                  
 
 <dialog id="my_modal_1" className="modal container">
   <div className="modal-box">
