@@ -10,8 +10,10 @@ import { MdOutlineMergeType, MdReviews } from 'react-icons/md';
 import { AuthContextElement } from '../../Context/AuthContext';
 
 const TourDetails = () => {
+    const[review,setReview] = useState([])
     const navigate = useNavigate()
-    const{user} = useContext(AuthContextElement)
+    const{user} = useContext(AuthContextElement);
+    const[rating,setRating] = useState([])
     const settings = {
         dots: true,
         infinite: true,
@@ -19,6 +21,11 @@ const TourDetails = () => {
         slidesToShow: 1,
         slidesToScroll: 1
       };
+      const getReviewHandler = (id) =>{
+        fetch(`http://localhost:4000/api/v1/review/${id}`).then(res => res.json()).then(data =>{
+            console.log(data,'review')
+        })
+      }
     const {place,CountryName} = useParams();
     const[tour,setTour] = useState({});
     useEffect(()=>{
@@ -29,7 +36,26 @@ const TourDetails = () => {
     
     const Reviews = e =>{
         e.preventDefault();
-        console.log(e.target.name.value,user,e.target.message.value)
+        const form = e.target
+        const reviewData = {
+           name : form.name.value,
+           email : user,
+           message:form.message.value,
+           TourId : tour?._id
+        }
+        console.log(reviewData)
+        fetch("http://localhost:4000/api/v1/review/create",{
+            method : 'POST',
+            body : JSON.stringify(reviewData),
+            headers : {
+                'Content-Type': 'application/json'
+            }
+        }).then(res => res.json()).then(data => {
+            setRating(data?.data)
+            if(data?.data){
+                getReviewHandler(tour?._id)
+            }
+        })
         
         e.target.reset()
     };
@@ -60,6 +86,7 @@ const TourDetails = () => {
 
     form.reset()
     }
+    getReviewHandler(tour?._id)
     return (
         <div className=''>
             <div className='small-banner'>
@@ -152,7 +179,7 @@ const TourDetails = () => {
                         <div className='py-12'>
                             {/* this is comment section */}
                         </div>
-                        <button onClick={()=>document.getElementById('my_modal_1').showModal()} className='py-3 px-14 bg-blue-700 text-white shadow-xl font-semibold'>Your Experience</button>
+                     {user?    <button onClick={()=>document.getElementById('my_modal_1').showModal()} className='py-3 px-14 bg-blue-700 text-white shadow-xl font-semibold'>Your Experience</button> : ""}
                     {/* Open the modal using document.getElementById('ID').showModal() method */}
 
 <dialog id="my_modal_1" className="modal container">

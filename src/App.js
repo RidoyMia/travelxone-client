@@ -14,7 +14,7 @@ import TourDetails from './components/pages/TourDetails/TourDetails';
 import { AuthContextElement } from './components/Context/AuthContext';
 //
 const App = () => {
-  const{user} = useContext(AuthContextElement)
+  const{user} = useContext(AuthContextElement) 
   return (
     
     <div className=''>
