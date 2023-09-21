@@ -73,6 +73,7 @@ const TourDetails = () => {
         const orderData = {
             name,email,phone,date,size,note,TourId : tour?._id,total : tour?.Price * size
         }
+        console.log(orderData,'orderData')
         fetch("http://localhost:4000/api/v1/order/create",{
             method : 'POST',
             body : JSON.stringify(orderData),
@@ -81,7 +82,7 @@ const TourDetails = () => {
               }
         }).then(res => res.json()).then(data => {
            if(data?.getting){
-           navigate('/dashboard')
+        //    navigate('/dashboard')
            }
         })
 

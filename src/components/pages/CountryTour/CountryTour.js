@@ -42,7 +42,7 @@ const CountryTour = () => {
         fetch(`http://localhost:4000/api/v1/tour/country/${country}`).then(res => res.json()).then(data => {
             setPlaces(data?.data);
            setImages(data.data[0].Pictures)
-           console.log(data?.data)
+          
         })
     },[country])
    

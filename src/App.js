@@ -12,6 +12,7 @@ import Divission from './components/Shared/Divission/Divission';
 import CountryTour from './components/pages/CountryTour/CountryTour';
 import TourDetails from './components/pages/TourDetails/TourDetails';
 import { AuthContextElement } from './components/Context/AuthContext';
+import Order from './components/pages/Dashboard/Order';
 //
 const App = () => {
   const{user} = useContext(AuthContextElement) 
@@ -31,6 +32,7 @@ const App = () => {
        
         <Route path='/dashboard' element={<Dashboard></Dashboard>}>
           <Route path='users' element={<Users></Users>}></Route>
+          <Route path='my-order' element={<Order></Order>}></Route>
         </Route>
       </Routes>
      
