@@ -13,6 +13,7 @@ import CountryTour from './components/pages/CountryTour/CountryTour';
 import TourDetails from './components/pages/TourDetails/TourDetails';
 import { AuthContextElement } from './components/Context/AuthContext';
 import Order from './components/pages/Dashboard/Order';
+import Searching from './components/pages/Searching/Searching';
 //
 const App = () => {
   const{user} = useContext(AuthContextElement) 
@@ -34,6 +35,7 @@ const App = () => {
           <Route path='users' element={<Users></Users>}></Route>
           <Route path='my-order' element={<Order></Order>}></Route>
         </Route>
+        <Route path='/search/:search' element={<Searching></Searching>}></Route>
       </Routes>
      
       <Footer></Footer>

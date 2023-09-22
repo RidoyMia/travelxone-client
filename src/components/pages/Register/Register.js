@@ -5,34 +5,41 @@ import { Link } from 'react-router-dom';
 import { AuthContextElement } from '../../Context/AuthContext';
 
 const Register = () => {
-    const{setUser} = useContext(AuthContextElement)
+    const{createUser} = useContext(AuthContextElement)
     const [error,setError] = useState(null)
     const handlesubmit =  e =>{
         e.preventDefault()
         const email = e.target.email.value;
         const password = e.target.password.value
         const Cpassword = e.target.confirm.value
+        
         const user = {
             email,password,role : 'user'
         }
 
         if(password === Cpassword){
+            createUser(email,password).then(result =>{
+                if(result){
+                    fetch("http://localhost:5000/api/v1/user/createUser",{
+                        method : 'POST',
+                        body: JSON.stringify(user),
+                        headers: {
+                          'Content-Type': 'application/json'
+                        }
+                    }).then(res => res.json()).then(data => {
+                        if(data?.data){
+                            
+                       
+                        }
+                        else{
+                            console.log("nai")
+                        }
+                    })
+                }
+            })
+
           setError("Password does not match!")
-          fetch("http://localhost:4000/api/v1/user/createUser",{
-            method : 'POST',
-            body: JSON.stringify(user),
-            headers: {
-              'Content-Type': 'application/json'
-            }
-        }).then(res => res.json()).then(data => {
-            if(data?.data){
-                setUser(data?.data.email)
-           
-            }
-            else{
-                console.log("nai")
-            }
-        })
+         
         }
         else{
             

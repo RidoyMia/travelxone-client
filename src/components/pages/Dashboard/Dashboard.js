@@ -1,7 +1,30 @@
-import React from 'react';
-import { Link, Outlet } from 'react-router-dom';
+import React, { useContext, useEffect, useState } from 'react';
+import { Link, Outlet, useNavigate } from 'react-router-dom';
 import { FcManager } from 'react-icons/fc';
+import { AuthContextElement } from '../../Context/AuthContext';
 const Dashboard = () => {
+  const{logOut,user} = useContext(AuthContextElement);
+  const[admin,setAdmin] = useState(false);
+  useEffect(()=>{
+    fetch(`http://localhost:5000/api/v1/user/admin?email=${user?.email}`).then(res => res.json()).then(data =>{
+     if(data?.data[0]?.role == "admin"){
+      console.log(data?.data[0]?.role)
+      setAdmin(true)
+     }
+     else{
+      console.log('user')
+      setAdmin(false)
+     }
+    })
+  },[user])
+ 
+const navigate = useNavigate()
+  const logout = ()=>{
+    localStorage.removeItem('travelaccesstoken')
+    logOut()
+    navigate('/')
+    
+  }
     return (
         <div className=''>
            
@@ -20,9 +43,12 @@ const Dashboard = () => {
       <Link className='link text-white' to="/dashboard/my-order">Orders</Link><br></br><br></br>
                      <Link className='link text-white' to="/dashboard/my-reviews">Reviews</Link><br></br><br></br>
                     
-                     <Link className='link text-white' to="/dashboard/users">Users</Link><br></br><br></br>
+                    {admin? <Link className='link text-white' to="/dashboard/users">Users</Link> : ''}
+                    {admin? <div><br></br><br></br></div> : ''}
                      <Link className='link text-white' to="/dashboard/reviews">Reviews</Link><br></br><br></br>
-                     <Link className='link text-white' to="/dashboard/hotel">Hotels</Link>
+                     {
+                          user? <button onClick={logout}>LogOut</button>: ""
+                    }
       
     </ul>
   </div>
@@ -32,9 +58,12 @@ const Dashboard = () => {
                      <Link className='link text-white' to="/dashboard/my-order">Orders</Link><br></br><br></br>
                      <Link className='link text-white' to="/dashboard/my-reviews">Reviews</Link><br></br><br></br>
                      
-                     <Link className='link text-white' to="/dashboard/users">Users</Link><br></br><br></br>
+                     {admin? <Link className='link text-white' to="/dashboard/users">Users</Link> : ''}
+                    {admin? <div><br></br><br></br></div> : ''}
                      <Link className='link text-white' to="/dashboard/reviews">Reviews</Link><br></br><br></br>
-                     <Link className='link text-white' to="/dashboard/hotel">Hotels</Link>
+                     {
+      user? <button className='link text-white' onClick={logout}>LogOut</button>: ''
+    }
                      
                 </div>
                 <div className='col-span-4 lg:col-span-7 md:col-span-5  bg-slate-950'>

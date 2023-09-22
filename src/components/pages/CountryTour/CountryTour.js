@@ -3,8 +3,10 @@ import { useParams } from 'react-router-dom';
 
 import Slider from "react-slick";
 import CountryPlce from './CountryPlce';
+import Loadin from '../../Context/Loading/Loadin';
 
 const CountryTour = () => {
+  const[loading,setLoading] = useState(true)
     const settings = {
         dots: true,
         infinite: true,
@@ -39,13 +41,16 @@ const CountryTour = () => {
     const[images,setImages] = useState([]);
     const[places,setPlaces] = useState([]);
     useEffect(()=>{
-        fetch(`http://localhost:4000/api/v1/tour/country/${country}`).then(res => res.json()).then(data => {
+        fetch(`http://localhost:5000/api/v1/tour/country/${country}`).then(res => res.json()).then(data => {
             setPlaces(data?.data);
+            setLoading(false)
            setImages(data.data[0].Pictures)
           
         })
     },[country])
-   
+   if(loading){
+    return <Loadin></Loadin>
+   }
     return (
         <div className='container'>
             <div className='py-5'>

@@ -2,18 +2,27 @@ import React, { useContext, useState } from 'react';
 import './Header.css'
 import logo from "../../../images/travel-xone.png"
 import toggler from "../../../images/hamburger-menu-icon-png-9-removebg-preview (1).png"
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import AuthContext, { AuthContextElement } from '../../Context/AuthContext';
 
 const Header = () => {
-  const{user,setUser} = useContext(AuthContextElement)
- 
+  const{logOut,user} = useContext(AuthContextElement)
+ console.log(user)
+const navigate = useNavigate()
 
   
 
   const logout = ()=>{
-     setUser(null)
+    localStorage.removeItem('travelaccesstoken')
+    logOut()
     
+  }
+  const searchingHandler = e =>{
+    e.preventDefault()
+    const search = e.target.search.value;
+    navigate(`/search/${search}`)
+    e.target.reset()
+
   }
     return (
         <div className='sh shadow-lg px-1 lg:px-10 md:px-8'>
@@ -30,9 +39,12 @@ const Header = () => {
           <Link className='link' to="/">Home</Link>
     <Link className='link' to="/destination">Destination</Link>
     <Link className='link' to="/transport">Transport</Link>
-    <Link className='link' to="/dashboard">Dashboard</Link>
+   
     <Link className='link' to="/contact">Contact Us</Link>
-    <Link className='link' to="/register">Login | Register</Link>
+    {
+      user? <Link className='link' to="/dashboard">Dashboard</Link> : <Link className='link' to="/register"> Register</Link>
+    }
+    
 
               
       </ul>
@@ -45,11 +57,12 @@ const Header = () => {
           <Link className='link' to="/">Home</Link>
     <Link className='link' to="/destination">Destination</Link>
     <Link className='link' to="/transport">Transport</Link>
-    <Link className='link' to="/dashboard">Dashboard</Link>
+    
     <Link className='link' to="/contact">Contact Us</Link>
     {
-      user? <button onClick={logout}>LogOut</button>:<Link className='link' to="/register">Login | Register</Link>
+      user? <Link className='link' to="/dashboard">Dashboard</Link> : <Link className='link' to="/register"> Register</Link>
     }
+    
           </ul>
           <ul className='block lg:hidden'>
           <Link className='link' to="/register"> Register</Link>
@@ -59,8 +72,8 @@ const Header = () => {
 
 
   <div className='flex justify-items-center justify-center pb-5'>
-    <form>
-      <input type='text' className=' w-48 md:w-64 lg:w-96 py-1 md:py-2 lg:py-2 px-4' placeholder='search'></input><button>Search</button>
+    <form onSubmit={searchingHandler}>
+      <input type='text' name="search" className=' w-48 md:w-64 lg:w-96 py-1 md:py-2 lg:py-2 px-4' placeholder='search'></input><button className='py-2 px-3 text-white bg-blue-700' type='submit'>Search</button>
     </form>
   </div>
 

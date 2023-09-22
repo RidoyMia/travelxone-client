@@ -4,27 +4,34 @@ import { Link } from 'react-router-dom';
 import { AuthContextElement } from '../../Context/AuthContext';
 
 const Login = () => {
-    const {user,setUser} = useContext(AuthContextElement);
+    const {user,createUser,signIn} = useContext(AuthContextElement);
     const handlesubmit = e =>{
         e.preventDefault()
         const email = e.target.email.value;
         const password = e.target.password.value;
-        const userbody = {
-            email,password
-        }
-        fetch(`http://localhost:4000/api/v1/user/login`,{
-            method : 'POST',
-            body: JSON.stringify(userbody),
-            headers: {
-              'Content-Type': 'application/json'
+        signIn(email,password).then(result => {
+            if(result){
+                const userbody = {
+                    email,password
+                }
+                fetch(`http://localhost:5000/api/v1/user/login`,{
+                    method : 'POST',
+                    body: JSON.stringify(userbody),
+                    headers: {
+                      'Content-Type': 'application/json'
+                    }
+                }).then(res => res.json()).then(data => {
+                   if(data){
+                    console.log(data.data.accesstoken)
+                    
+                    localStorage.setItem('travelaccesstoken',data?.data.accesstoken)
+                   }
+                }).catch(e=>{
+                    console.log(e)
+                })
             }
-        }).then(res => res.json()).then(data => {
-           if(data){
-            console.log(data.data.accesstoken)
-            setUser(data.data?.email)
-            localStorage.setItem('travelaccesstoken',data?.data.accesstoken)
-           }
         })
+       
     }
     return (
         <div>
