@@ -6,7 +6,7 @@ const Order = () => {
     const[orders,setOrders] = useState([])
     const accesstoken = localStorage.getItem('travelaccesstoken')
 
-    fetch('http://localhost:5000/api/v1/order/getorder',{
+    fetch('https://travel-xone-server-five.vercel.app/api/v1/order/getorder',{
         headers : {
             "Authorization": `Bearer ${accesstoken}`
         }

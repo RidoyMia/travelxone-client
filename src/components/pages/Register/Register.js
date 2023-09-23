@@ -20,7 +20,7 @@ const Register = () => {
         if(password === Cpassword){
             createUser(email,password).then(result =>{
                 if(result){
-                    fetch("http://localhost:5000/api/v1/user/createUser",{
+                    fetch("https://travel-xone-server-five.vercel.app/api/v1/user/createUser",{
                         method : 'POST',
                         body: JSON.stringify(user),
                         headers: {

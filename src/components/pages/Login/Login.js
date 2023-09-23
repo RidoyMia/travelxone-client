@@ -14,7 +14,7 @@ const Login = () => {
                 const userbody = {
                     email,password
                 }
-                fetch(`http://localhost:5000/api/v1/user/login`,{
+                fetch(`https://travel-xone-server-five.vercel.app/api/v1/user/login`,{
                     method : 'POST',
                     body: JSON.stringify(userbody),
                     headers: {

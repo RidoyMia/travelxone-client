@@ -6,7 +6,7 @@ const Users = () => {
     const[beforeusers,setBeforeusers] = useState()
     const[loading,setLoading] = useState(false)
     useEffect(()=>{
-        fetch(`http://localhost:5000/api/v1/user/alluser`).then(res =>res.json()).then(data => {
+        fetch(`https://travel-xone-server-five.vercel.app/api/v1/user/alluser`).then(res =>res.json()).then(data => {
             console.log(data?.data,'user')
             setUsers(data?.data);
             setBeforeusers(data?.data)
@@ -34,7 +34,7 @@ const Users = () => {
     }
     const deleteuser = email =>{
        
-        fetch(`http://localhost:5000/api/v1/user/${email}`,{
+        fetch(`https://travel-xone-server-five.vercel.app/api/v1/user/${email}`,{
             method : 'DELETE'
         }).then(res => res.json()).then(data => {
             console.log(data?.data?.deletedCount,'deleted')

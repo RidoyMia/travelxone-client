@@ -35,7 +35,7 @@ const TourDetails = () => {
     const[tour,setTour] = useState({});
     useEffect(()=>{
         setLoading(true)
-        fetch(`http://localhost:5000/api/v1/tour/${place}`).then(res => res.json()).then(data => {
+        fetch(`https://travel-xone-server-five.vercel.app/api/v1/tour/${place}`).then(res => res.json()).then(data => {
             setTour(data?.data)
             setLoading(false)
         })

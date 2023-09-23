@@ -41,7 +41,7 @@ const CountryTour = () => {
     const[images,setImages] = useState([]);
     const[places,setPlaces] = useState([]);
     useEffect(()=>{
-        fetch(`http://localhost:5000/api/v1/tour/country/${country}`).then(res => res.json()).then(data => {
+        fetch(`https://travel-xone-server-five.vercel.app/api/v1/tour/country/${country}`).then(res => res.json()).then(data => {
             setPlaces(data?.data);
             setLoading(false)
            setImages(data.data[0].Pictures)

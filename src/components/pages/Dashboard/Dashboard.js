@@ -6,7 +6,7 @@ const Dashboard = () => {
   const{logOut,user} = useContext(AuthContextElement);
   const[admin,setAdmin] = useState(false);
   useEffect(()=>{
-    fetch(`http://localhost:5000/api/v1/user/admin?email=${user?.email}`).then(res => res.json()).then(data =>{
+    fetch(`https://travel-xone-server-five.vercel.app/api/v1/user/admin?email=${user?.email}`).then(res => res.json()).then(data =>{
      if(data?.data[0]?.role == "admin"){
       console.log(data?.data[0]?.role)
       setAdmin(true)
@@ -45,6 +45,8 @@ const navigate = useNavigate()
                     
                     {admin? <Link className='link text-white' to="/dashboard/users">Users</Link> : ''}
                     {admin? <div><br></br></div> : ''}
+                    {admin? <Link className='link text-white' to="/dashboard/tours">Tours</Link> : ''}
+                    {admin? <div><br></br></div> : ''}
                      <Link className='link text-white' to="/dashboard/reviews">Reviews</Link><br></br><br></br>
                      {
                           user? <button onClick={logout}>LogOut</button>: ""
@@ -59,6 +61,8 @@ const navigate = useNavigate()
                      <Link className='link text-white' to="/dashboard/my-reviews">Reviews</Link><br></br><br></br>
                      
                      {admin? <Link className='link text-white' to="/dashboard/users">Users</Link> : ''}
+                    {admin? <div><br></br></div> : ''}
+                    {admin? <Link className='link text-white' to="/dashboard/tours">Tours</Link> : ''}
                     {admin? <div><br></br></div> : ''}
                      <Link className='link text-white' to="/dashboard/reviews">Reviews</Link><br></br><br></br>
                      {
