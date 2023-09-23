@@ -44,7 +44,7 @@ const navigate = useNavigate()
                      <Link className='link text-white' to="/dashboard/my-reviews">Reviews</Link><br></br><br></br>
                     
                     {admin? <Link className='link text-white' to="/dashboard/users">Users</Link> : ''}
-                    {admin? <div><br></br><br></br></div> : ''}
+                    {admin? <div><br></br></div> : ''}
                      <Link className='link text-white' to="/dashboard/reviews">Reviews</Link><br></br><br></br>
                      {
                           user? <button onClick={logout}>LogOut</button>: ""
@@ -59,7 +59,7 @@ const navigate = useNavigate()
                      <Link className='link text-white' to="/dashboard/my-reviews">Reviews</Link><br></br><br></br>
                      
                      {admin? <Link className='link text-white' to="/dashboard/users">Users</Link> : ''}
-                    {admin? <div><br></br><br></br></div> : ''}
+                    {admin? <div><br></br></div> : ''}
                      <Link className='link text-white' to="/dashboard/reviews">Reviews</Link><br></br><br></br>
                      {
       user? <button className='link text-white' onClick={logout}>LogOut</button>: ''
