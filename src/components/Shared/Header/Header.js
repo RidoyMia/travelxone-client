@@ -37,10 +37,11 @@ const navigate = useNavigate()
       <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
      
           <Link className='link' to="/">Home</Link>
-    <Link className='link' to="/destination">Destination</Link>
-    <Link className='link' to="/transport">Transport</Link>
+    
+   
    
     <Link className='link' to="/contact">Contact Us</Link>
+    <Link className='link' to="/blog">Blog</Link>
     {
       user? <Link className='link' to="/dashboard">Dashboard</Link> : <Link className='link' to="/register"> Register</Link>
     }
@@ -55,10 +56,10 @@ const navigate = useNavigate()
         <div className='text-left'>
           <ul className='hidden lg:block'>
           <Link className='link' to="/">Home</Link>
-    <Link className='link' to="/destination">Destination</Link>
-    <Link className='link' to="/transport">Transport</Link>
+    
     
     <Link className='link' to="/contact">Contact Us</Link>
+    <Link className='link' to="/blog">Blog</Link>
     {
       user? <Link className='link' to="/dashboard">Dashboard</Link> : <Link className='link' to="/register"> Register</Link>
     }
